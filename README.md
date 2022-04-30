@@ -1,5 +1,5 @@
-# SEM-4 GE CS Practical
-<h1 align="center">Hi 👋, I'm Piyush Ranjan</h1>
+# 
+<h1 align="center">SEM-4 GE CS Practical</h1>
 <h3 align="center">Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushranjan-rcdu&label=Profile%20views&color=0e75b6&style=flat" alt="piyushranjan-rcdu" /> </p>
@@ -10,9 +10,6 @@ Roll No - 20202981
 
 Course - B.A.(Hons.) Economics
 
-- 📫 How to reach me **piyushranjan7517@gmail.com**
-
-<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 
